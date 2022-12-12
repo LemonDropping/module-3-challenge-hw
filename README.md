@@ -12,4 +12,4 @@ The reason for creating this application was to make a generator that gives the 
 6. The user will then be prompted with the option to add numbers.
 7. The users generated password will appear in the dotted bordered box above the red generate button.
 
-![You will see the red generate button that you click on to start the process of the password generator.](./assets/images/Password-Generator-Screenshot)
+![You will see the red generate button that you click on to start the process of the password generator.](./assets/images/Password-Generator-Screenshot.png)
